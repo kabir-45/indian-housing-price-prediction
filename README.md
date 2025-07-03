@@ -12,7 +12,7 @@ The goal is to provide an accurate price prediction model that can help potentia
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/indian-housing-price-prediction.git
+   git clone https://github.com/Kabir-45/indian-housing-price-prediction.git
    cd indian-housing-price-prediction
 
 2. **Run Kaggle Notebook**  
