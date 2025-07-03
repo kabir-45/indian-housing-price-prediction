@@ -1,0 +1,7 @@
+# Ignore IDE settings
+.idea/
+
+# Ignore unwanted model/data versions
+*.pkl
+!streamlit_app/models/pipeline.pkl
+!streamlit_app/data/dataframe.pkl
