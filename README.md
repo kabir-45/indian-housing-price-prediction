@@ -25,5 +25,4 @@ The model has been deployed using **Streamlit** to provide a user-friendly web i
 Users can enter key features such as **location**, **number of rooms**, **furnishing type**, and more — and receive a **predicted price range** instantly.
 
 ### 🖼️ App Interface
-![Input Form](images/Screenshot%202025-07-03%20173819.png) 
-![Prediction Output](images/Screenshot%202025-07-03%20173910.png)
+![Input Form](images/Screenshot%202025-07-03%20173819.png)          ![Prediction Output](images/Screenshot%202025-07-03%20173910.png)
