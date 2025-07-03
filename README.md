@@ -24,5 +24,13 @@ The goal is to provide an accurate price prediction model that can help potentia
 The model has been deployed using **Streamlit** to provide a user-friendly web interface.  
 Users can enter key features such as **location**, **number of rooms**, **furnishing type**, and more — and receive a **predicted price range** instantly.
 
-### 🖼️ App Interface
 ![Input Form](images/Screenshot%202025-07-03%20173819.png)          ![Prediction Output](images/Screenshot%202025-07-03%20173910.png)
+
+## 🚀 Streamlit App
+
+To run the interactive app:
+
+```bash
+cd streamlit_app
+pip install -r requirements.txt
+streamlit run HomePage.py
